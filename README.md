@@ -1,10 +1,17 @@
 Немного информации обо мне:
 
-Местопроживание - Российская Федерация,  Приморский  край, г. Владивосток |
-Язык - Русский / English  / Ukraine  (Junior) |
-Псевдоним - Milize Aesthetic |
-Любитель рок музыки, игр, вёрстки сайтов. |
+Местопроживание - Российская Федерация,  Приморский  край, г. Владивосток 
 
-Discord - milize.aesthetic |
-Vk - https://vk.com/milize.aesthetic |
+Язык - Русский / English  / Ukraine  (Junior) 
+
+Псевдоним - Milize Aesthetic 
+
+Любитель рок музыки, игр, вёрстки сайтов. 
+
+Discord - milize.aesthetic 
+
+Vk - https://vk.com/milize.aesthetic 
+
 TELEGRAM - @MilizeAesthetic
+
+Об изменениях в моих проектах можно увидеть в ветке CHANGE. Там будут выходить важные по моему мнению обновления в каком-либо проекте из веток ниже ветки CHANGE.
