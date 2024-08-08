@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper-first-slide img{
+  width: 100%; /* Гибкость – наше всё */
+  height: 1440px; /* Доверьтесь автоматике */
+  object-fit: contain;
+  position: relative;
+ 
+}
